@@ -16,6 +16,8 @@ sample prohect can be deployed on any web server.
 
 ## How To Contribute
 
+Please for the trepo and the issue pull requests for review
+
 ### Copyright
 
 Git training a stuff
