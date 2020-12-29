@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jonas Allegri	j@nuclearneon.com @acrophobicninja
 
 # THANKS
 
