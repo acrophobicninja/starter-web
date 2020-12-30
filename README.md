@@ -3,7 +3,7 @@
 This is a simple website project for showing how to use GitHub
 
 ADDING MOAR LINES FOR REBASE EXAMPLE!!! WOOOOOO! - then,
-more changes from demo feature branch
+more changes from demo feature branch. upadtining line to simluate an emergency fix after git stash
 
 ## Introduction
 
