@@ -2,7 +2,8 @@
 
 This is a simple website project for showing how to use GitHub
 
-ADDING MOAR LINES FOR REBASE EXAMPLE!!! WOOOOOO!
+ADDING MOAR LINES FOR REBASE EXAMPLE!!! WOOOOOO! - then,
+more changes from demo feature branch
 
 ## Introduction
 
