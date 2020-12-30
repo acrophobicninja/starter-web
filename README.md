@@ -23,4 +23,4 @@ Please for the trepo and the issue pull requests for review
 
 ### Copyright
 
-Git training a stuff
+Git training a stuff. All rights can whatever.
